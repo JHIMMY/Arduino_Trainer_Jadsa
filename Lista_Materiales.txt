@@ -1,0 +1,44 @@
+1 socket 28 pines
+1 Atmega328p
+1 cristal 16Mhz
+1 cristal 12Mhz
+4 condensadores de 22pF
+1 condensador cerámico 103
+3 condensador cerámico 104
+1 CH340g o CH340c
+1 puerto USB-B
+1 Jack entrada DC
+1 botón 6x6x4mm reset
+Juego de Espadines macho
+Juego de Espadines hembra
+1 lm2596-adj
+1 lm317
+1 bobina de 100uH
+2 condensadores de 100uF entrada 35v salida de 16v
+1 condensador de 10uF/16v
+2 LED de 3mm
+1 LED RGB
+1 transistores 2N2222
+1 relé bobina 5v
+1 diodo 1N4007
+1 bornera de 2P
+1 ds1307
+1 cristal 32768Khz
+1 socket para pila CR2032
+1 dth11
+1 LDR
+2 potenciómetro de 10k forma cuadrada
+1 enconder
+
+
+SMD tamaño 1206
+6 LED
+3 diodo schoky SS34
+12 resistencia de 330R
+8 resistencia de 10k
+3 resistencia de 1k
+1 resistencia de 4k7
+1 resistencia de 2k
+2 resistencia de 1k5
+1 resistencia de 510R
+1 resistencia de 820R
